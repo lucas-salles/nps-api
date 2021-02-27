@@ -34,6 +34,12 @@ $ npm run dev
 # O servidor inciará na porta:3333 - acesse <http://localhost:3333>
 ```
 
+Além disso, na raiz do projeto há um arquivo JSON do [Insomnia](https://insomnia.rest/download/) para chamar a API e testar as rotas.
+
+### Tela do Insomnia
+
+![alt text](img/insomnia.png)
+
 ## Rodando os Testes
 
 Para rodar os testes basta acessar a pasta do projeto. Da sua linha de comando execute:
@@ -45,9 +51,3 @@ $ cd nps-api
 # Execute os testes
 $ npm run test
 ```
-
-## Tela do Insomnia
-
-Além disso, na raiz do projeto há um arquivo JSON do [Insomnia](https://insomnia.rest/download/) para chamar a API e testar as rotas.
-
-![alt text](img/insomnia.png)
