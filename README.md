@@ -1,8 +1,8 @@
-# NPS api
+# NPS API
 
 ## Descrição
 
-Um sistema para cálculo de NPS. NPS ou Net Promoter Score é uma métrica criada por Fred Reichheld para medir a satisfação dos clientes.
+Um sistema para cálculo de NPS (Net Promoter Score), NPS API ajuda a medir a satisfação dos clientes.
 
 ## Tecnologias
 
@@ -36,7 +36,7 @@ $ npm run dev
 
 ## Rodando os Testes
 
-Para rodar os testes basta acessar pasta do projeto. Da sua linha de comando execute:
+Para rodar os testes basta acessar a pasta do projeto. Da sua linha de comando execute:
 
 ```bash
 # Acesse a pasta do projeto
